@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0052/YP-C/v1/juan/3
+seq: 3
+front:
+  text: 重刋道藏輯要
+  hash: sha256:972c3c5029b24a17e27f2b03a7e86d4422a7e71d4455eb70dca445dd908b9848
+  markers:
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0052_14biji-01-0004b}
+body:
+  text: 易說孚佑上帝純陽吕祖天師著圖解目錄河圖元圖洛書元圖先天混極圖解先天元極圖解先天靈極圖解先天太極圖解中極動靜圖解少極變化圖解太陽圖解太陰圖解象明圖解三才圖解先天八卦合洛書數圖解後天八卦合河圖數圖解陽奇圖解陰偶圖解兩儀生四象四象生八卦圖解乾坤闔闢圖解伏羲則河圖以作大易圖解大禹則洛書以作洪範圖解太極中分八卦圖解伏羲八卦方位次序圖解文王八卦方位次序圖解六十四卦方圓圖解六十四卦剛柔相摩圖解六十四卦分配節氣圖解陰陽律吕生生圖解三分損益圖解天根月窟圖解陰陽消息圖解卦序圖解
+  hash: sha256:b327feb053b8b127f1be90dfd201ff80e88c2a4d7ea36aef839d965bec8db295
+metadata:
+  title: 易說
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:53:08.472264'
+  source:
+    repository: kanripo
+    path: KR5i0052/KR5i0052_003.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:94c9a63fd10f17be8213cb8503177a5282ec0a65cffa7cf9418260cf02aa590b

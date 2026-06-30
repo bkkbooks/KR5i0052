@@ -1,0 +1,97 @@
+canonical_identifier: bkk:krp/KR5i0052/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5i0052/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易說
+  date: '2015-08-29 17:53:08.472264'
+  source:
+    repository: kanripo
+    path: KR5i0052
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0052_001-YP-C.yaml, hash: 'sha256:c74ffdea4a94c9a42d0161372531a36f04e7befdb383dea5a5cef70036493773'}
+  - {seq: 2, filename: KR5i0052_002-YP-C.yaml, hash: 'sha256:440f63f36e18c0c38a93a719321ea98654451695c7481bc5c59d79e28cc27e55'}
+  - {seq: 3, filename: KR5i0052_003-YP-C.yaml, hash: 'sha256:94c9a63fd10f17be8213cb8503177a5282ec0a65cffa7cf9418260cf02aa590b'}
+  - {seq: 4, filename: KR5i0052_004-YP-C.yaml, hash: 'sha256:34e37b52b5a12699420b939746edbf7a853e673e6e90352d9f4c0d5a4ed99b5f'}
+  - {seq: 5, filename: KR5i0052_005-YP-C.yaml, hash: 'sha256:a5c2245f987c8909f6aa2c204d54347e7141aff4b995b32b92428cb883286bda'}
+  - {seq: 6, filename: KR5i0052_006-YP-C.yaml, hash: 'sha256:4b1773b31d58376b0e3c488342075bc435fe849ec8280651ba85de4b2192cba9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0052_001-YP-C.markers.yaml, hash: 'sha256:a6768d5abdcee11f4d3a2da2d6df8b1230a06bd10016539ba4170b0a8b6157b6'}
+  - {seq: 2, role: markers, filename: assets/KR5i0052_002-YP-C.markers.yaml, hash: 'sha256:b4ec5ae04c9665e334ed03ccd0c7e8a21aa6350a851645ea4bfa2acd3ae36809'}
+  - {seq: 3, role: markers, filename: assets/KR5i0052_003-YP-C.markers.yaml, hash: 'sha256:521044e49c4d570714e63055dab23e4ebac4a9e912e4333bd78bf00eee3ad087'}
+  - {seq: 4, role: markers, filename: assets/KR5i0052_004-YP-C.markers.yaml, hash: 'sha256:a0dc1bd6880a83fa7be2ed9abaf14c94df73e370ee87e60094c81d6d980b5628'}
+  - {seq: 5, role: markers, filename: assets/KR5i0052_005-YP-C.markers.yaml, hash: 'sha256:48bad2537f7e2c5a93edc4d3f7fc73e3f46bd04b6ee1d6c2ef38d6f9d1cc2556'}
+  - {seq: 6, role: markers, filename: assets/KR5i0052_006-YP-C.markers.yaml, hash: 'sha256:eb939f94a805f9907593c7f44f53b2dc3113b47c8a42a3de3eee1d3e8731202a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-C_KR5i0052_14biji-01-0001a
+    span:
+    - body
+    - 0
+    - 11
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: YP-C_KR5i0052_14biji-01-0002b
+    span:
+    - body
+    - 0
+    - 11
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: YP-C_KR5i0052_14biji-01-0004b
+    span:
+    - body
+    - 0
+    - 231
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: YP-C_KR5i0052_14biji-01-0007a
+    span:
+    - body
+    - 0
+    - 10857
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: YP-C_KR5i0052_14biji-01-0061b
+    span:
+    - body
+    - 0
+    - 52680
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: YP-C_KR5i0052_14biji-01-0062a
+    span:
+    - body
+    - 0
+    - 36124
+  label: juan 006
+  type: section
+  level: 1
+hash: sha256:9bab081af0622ffead31de135c6b8784030c3a372d915295f364fbebb20eb25d
